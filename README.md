@@ -56,7 +56,7 @@ This Streamlit application provides a user-friendly interface to extract text da
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone [<repository-link>](https://github.com/SatchalPatil/Data-Extraction-diff-file-type/tree/main)
    cd <repository-folder>
    ```
 

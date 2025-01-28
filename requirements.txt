@@ -1,0 +1,11 @@
+streamlit 
+docx 
+fitz
+PIL 
+pytesseract 
+pandas 
+bs4 
+requests
+transformers 
+pdf2image 
+io

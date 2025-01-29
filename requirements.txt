@@ -10,3 +10,4 @@ transformers
 pdf2image 
 io
 speech_recognition
+pyttsx3
